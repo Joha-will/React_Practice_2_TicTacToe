@@ -26,6 +26,5 @@ export default function Player({initialName, symbol, isActive }) {
             </span>
             <button onClick={handleEditClick}>{ isEditing ? 'Save' : 'Edit' }</button>
           </li>
-
     );
 } 
