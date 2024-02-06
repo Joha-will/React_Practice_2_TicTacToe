@@ -1,4 +1,5 @@
 # **Tic Toc Toe (ReactJS)**
+![Uploading Screenshot 2024-02-06 at 21.57.54.png…]()
 
 A tic-toc-toe game built with React that offers multiplayer mode. This was a practice project I had to complete for the React course as part of my learning process. Building it was enjoyable, and I learned a lot about using Components, State and alot more.
 
