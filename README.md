@@ -6,6 +6,18 @@
 
 A tic-toc-toe game built with React that offers multiplayer mode. This was a practice project I had to complete for the React course as part of my learning process. Building it was enjoyable, and I learned a lot about using Components, State and alot more.
 
+***What I learnt 📚***
+------------------------
+****Beyond the basics****
+
+Here are some of the things I learn during this section of my React journey:
+
+ * Advance State usage
+ * Structuring Components and State
+ * Behind the scences of JSX
+ * Patterns and best practices
+
+
 ***How can it be improved?***
 ------------------------------
 The project can be improved by implementing a single player mode, so that user can player against the computer. So effects or background music can also be an additional features.
